@@ -1,4 +1,4 @@
-# PerfectLawn
+# Perfect Lawn
 Aronelle's Spick and Span Lawn
 
 # Lawn & Order - Game Design Document
