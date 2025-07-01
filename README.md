@@ -49,7 +49,7 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 
 | Character          | Behavior                          | Action Required     |
 |-------------------|-----------------------------------|---------------------|
-| Neighbour (Norm & Brigitta) | Walks by and comments             | None (goal outcome) |
+| Neighbour (Norman & Brigitte) | Walks by and comments             | None (goal outcome) |
 | Birds (Aussie fauna) | Lands and poops                   | Yell into mic       |
 | Ant                | Builds nest                       | Tap to squash       |
 | Norman             | Flicks cigarette butts            | Tap before flick    |
