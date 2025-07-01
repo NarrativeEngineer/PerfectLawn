@@ -83,6 +83,9 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 - Threats overlap for complexity
 - Optional bonus stages (e.g. nighttime lawn, storm weather)
 
+## 🈵 Success
+
+- when you receive 5 compliments by Norman or Brigitta you receive the Lawn Domination badge
 ---
 
 *“Make your patch the envy of the suburb.”*
