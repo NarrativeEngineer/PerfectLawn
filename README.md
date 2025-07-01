@@ -40,7 +40,7 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 | 1     | Dandelion seeds                        | Low           |
 | 2     | Birds (pooping)                        | Low           |
 | 3     | Kids throwing trash                    | Medium        |
-| 4     | Ralph (cigarette butts)               | Medium-High   |
+| 4     | Norman (cigarette butts)              | Medium-High   |
 | 5     | Combo (birds, trash, Norman, dandelion)| High          |
 
 ## 👥 Characters & Threats
