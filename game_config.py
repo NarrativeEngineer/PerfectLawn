@@ -64,6 +64,33 @@ levels = [
         "notes": "Survive every threat for 90 seconds"}
 ]
 
+
+# Detailed bird species with rarity for birdwatch badges
+
+bird_types = [
+    {"name": "bin chicken", "rarity": "common"},
+    {"name": "cockatoo", "rarity": "rare"},
+    {"name": "rock pigeons", "rarity": "common"},
+    {"name": "sea gulls", "rarity": "medium rare"},
+    {"name": "budgies", "rarity": "rare"},
+    {"name": "rainbow lorikeet", "rarity": "rare"},
+    {"name": "black cockatoo", "rarity": "rarest"},
+    {"name": "black swan", "rarity": "rarest"},
+]
+
+# Track which birdwatch badges the player has unlocked
+
+birdwatch_badges = {
+    "bin chicken": False,
+    "cockatoo": False,
+    "rock pigeons": False,
+    "sea gulls": False,
+    "budgies": False,
+    "rainbow lorikeet": False,
+    "black cockatoo": False,
+    "black swan": False,
+}
+
 # 5. Characters and Behaviors
 characters = {
     "Elderly Neighbours": "Norm and Brigitta give praise or disapproval",

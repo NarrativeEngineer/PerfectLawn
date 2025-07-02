@@ -18,6 +18,8 @@ This file outlines all the active and passive agents in the game, their behavior
 - **Threat:** Poops on the lawn
 - **Action Trigger:** Lands for ~2 seconds before dropping
 - **Player Interaction:** Yell into microphone to scare off
+- **Species:** bin chicken (common), cockatoo (rare), rock pigeons (common), sea gulls (medium rare), budgies (rare), rainbow lorikeet (rare), black cockatoo (rarest), black swan (rarest).
+- **Badge Unlock:** Each bird grants a birdwatch badge when first encountered.
 - **Escalation:** Flies faster, comes in flocks, poop targets increase
 
 ---

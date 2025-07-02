@@ -50,13 +50,29 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 | Character          | Behavior                          | Action Required     |
 |-------------------|-----------------------------------|---------------------|
 | Neighbour (Norm & Brigitta) | Walks by and comments             | None (goal outcome) |
-| Bird               | Lands and poops                   | Yell into mic       |
+| Birds (Aussie fauna) | Lands and poops                   | Yell into mic       |
 | Ant                | Builds nest                       | Tap to squash       |
 | Norman             | Flicks cigarette butts            | Tap before flick    |
 | Kid                | Throws trash                      | Swipe to deflect    |
 | Dog                | Attempts to pee                   | Hose or redirect    |
 | Teen Driver        | Skids on lawn                     | Tap obstacle trap   |
 | Distracted Shopper | Leaves trolley on lawn            | Swipe away          |
+
+
+### Birdwatch Badges
+
+| Bird Species | Rarity | Badge Unlock |
+| ------------ | ------ | ------------ |
+| Bin chicken | Common | On first sighting |
+| Cockatoo | Rare | On first sighting |
+| Rock pigeons | Common | On first sighting |
+| Sea gulls | Medium rare | On first sighting |
+| Budgies | Rare | On first sighting |
+| Rainbow lorikeet | Rare | On first sighting |
+| Black cockatoo | Rarest | On first sighting |
+| Black swan | Rarest | On first sighting |
+Bird species appear randomly at higher levels, unlocking a new badge when spotted.
+
 
 ## 🔊 Audio
 
@@ -85,10 +101,15 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 - Threats overlap for complexity
 - Optional bonus stages (e.g. nighttime lawn, storm weather)
 
+## 🈵 Success
+
+- when you receive 5 compliments by Norman or Brigitta you receive the Lawn Domination badge
+- Bird species unlock badges when spotted during higher levels
+- Optional bonus stages (e.g. nighttime lawn, storm weather)
 ---
 
 *“Make your patch the envy of the suburb.”*
-
+=======
 ## Level Escalation Plan
 
 The game introduces threats gradually across 16 levels.
@@ -125,3 +146,6 @@ Between major sections, players can unwind in special "Zen" stages that offer ge
 | 30Z       | Bonsai Courtyard        | Trim trees, arrange stones           | Norman flick delay +1s (next 5)  |
 | 40Z       | Sakura Garden           | Catch petals, arrange benches        | Reduce trash rate by 20%         |
 | 50Z       | Zen Sand Raking Mastery | Freeform rake art, candle lighting   | Unlock permanent décor pieces    |
+
+\nFor asset and inspiration credits, see [CREDITS.md](CREDITS.md)
+
