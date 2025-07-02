@@ -1,10 +1,14 @@
+
 # 🧑‍🌾 Perfect Lawn — Agents Design Document
+
 
 This file outlines all the active and passive agents in the game, their behaviors, how the player interacts with them, and how their difficulty escalates.
 
 ---
 
-## 🧍 Passive Agent: Elderly Neighbour - Norm and Brigitta
+
+## 🧍 Passive Agent: Elderly Neighbour - Norman and Brigitte
+
 
 - **Role:** Game feedback system
 - **Behavior:** Walks past the lawn at end of each level
@@ -20,6 +24,8 @@ This file outlines all the active and passive agents in the game, their behavior
 - **Player Interaction:** Yell into microphone to scare off
 - **Species:** bin chicken (common), cockatoo (rare), rock pigeons (common), sea gulls (medium rare), budgies (rare), rainbow lorikeet (rare), black cockatoo (rarest), black swan (rarest).
 - **Badge Unlock:** Each bird grants a birdwatch badge when first encountered.
+=======
+
 - **Escalation:** Flies faster, comes in flocks, poop targets increase
 
 ---

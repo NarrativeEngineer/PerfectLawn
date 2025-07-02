@@ -1,6 +1,7 @@
 # Perfect Lawn
 Aronelle's Spick and Span Lawn
 
+
 This repository contains the configuration for the mobile game "Perfect Lawn". See `game_config.py` for gameplay details.
 
 # Perfect Lawn - Game Design Document
@@ -42,21 +43,24 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 | 1     | Dandelion seeds                        | Low           |
 | 2     | Birds (pooping)                        | Low           |
 | 3     | Kids throwing trash                    | Medium        |
-| 4     | Norman (cigarette butts)               | Medium-High   |
+| 4     | Norman (cigarette butts)              | Medium-High   |
 | 5     | Combo (birds, trash, Norman, dandelion)| High          |
 
 ## 👥 Characters & Threats
 
 | Character          | Behavior                          | Action Required     |
-|-------------------|-----------------------------------|---------------------|
+|-------------------|-----------------------------------|---------------------|r
 | Neighbour (Norman & Brigitte) | Walks by and comments             | None (goal outcome) |
 | Birds (Aussie fauna) | Lands and poops                   | Yell into mic       |
+| Neighbour          | Walks by and comments             | None (goal outcome) |
+| Bird               | Lands and poops                   | Yell into mic       |
 | Ant                | Builds nest                       | Tap to squash       |
 | Norman             | Flicks cigarette butts            | Tap before flick    |
 | Kid                | Throws trash                      | Swipe to deflect    |
 | Dog                | Attempts to pee                   | Hose or redirect    |
 | Teen Driver        | Skids on lawn                     | Tap obstacle trap   |
 | Distracted Shopper | Leaves trolley on lawn            | Swipe away          |
+
 
 ### Birdwatch Badges
 
@@ -71,6 +75,7 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 | Black cockatoo | Rarest | On first sighting |
 | Black swan | Rarest | On first sighting |
 Bird species appear randomly at higher levels, unlocking a new badge when spotted.
+
 
 ## 🔊 Audio
 
@@ -141,3 +146,4 @@ Between major sections, players can unwind in special "Zen" stages that offer ge
 | 40Z       | Sakura Garden           | Catch petals, arrange benches        | Reduce trash rate by 20%         |
 | 50Z       | Zen Sand Raking Mastery | Freeform rake art, candle lighting   | Unlock permanent décor pieces    |
 \nFor asset and inspiration credits, see [CREDITS.md](CREDITS.md).
+=======
