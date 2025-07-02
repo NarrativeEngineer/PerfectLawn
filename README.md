@@ -1,7 +1,6 @@
 # Perfect Lawn
 Aronelle's Spick and Span Lawn
 
-=======
 This repository contains the configuration for the mobile game "Perfect Lawn". See `game_config.py` for gameplay details.
 
 # Perfect Lawn - Game Design Document
@@ -74,6 +73,7 @@ Protect your lawn from an increasing barrage of weeds, pests, and unruly visitor
 | Black swan | Rarest | On first sighting |
 Bird species appear randomly at higher levels, unlocking a new badge when spotted.
 
+
 ## 🔊 Audio
 
 - **Mic input detection:** blow, yell
@@ -104,7 +104,6 @@ Bird species appear randomly at higher levels, unlocking a new badge when spotte
 ## 🈵 Success
 
 - when you receive 5 compliments by Norman or Brigitta you receive the Lawn Domination badge
-=======
 - Bird species unlock badges when spotted during higher levels
 - Optional bonus stages (e.g. nighttime lawn, storm weather)
 ---
@@ -147,4 +146,6 @@ Between major sections, players can unwind in special "Zen" stages that offer ge
 | 30Z       | Bonsai Courtyard        | Trim trees, arrange stones           | Norman flick delay +1s (next 5)  |
 | 40Z       | Sakura Garden           | Catch petals, arrange benches        | Reduce trash rate by 20%         |
 | 50Z       | Zen Sand Raking Mastery | Freeform rake art, candle lighting   | Unlock permanent décor pieces    |
+
 \nFor asset and inspiration credits, see [CREDITS.md](CREDITS.md)
+

@@ -64,6 +64,7 @@ levels = [
         "notes": "Survive every threat for 90 seconds"}
 ]
 
+
 # Detailed bird species with rarity for birdwatch badges
 
 bird_types = [
